@@ -35,11 +35,11 @@
     "Weekly Allocation": "250TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-05-31 08:38:14.749918656 UTC",
     "Validated By": "NewHuoPool",
     "Active": true,
-    "Updated At": "2024-05-31 08:38:14.749924003 UTC",
+    "Updated At": "2024-05-31 09:06:32.208389214 UTC",
     "Active Request ID": "68d70276-9efd-46ab-a3ae-c9fdbd55baf5",
     "On Chain Address": "f1kzg6jctjv7ymsidesasfp6lldmxa5nje4z4mxqi",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-05-31 08:38:14.749926047 UTC",
       "Updated At": "2024-05-31 08:38:14.749927692 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "150TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "NewHuoPool",
+          "Signing Address": "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y",
+          "Created At": "2024-05-31 09:06:28.417000000 UTC",
+          "Message CID": "bafy2bzaceaickaq66mvl77pq6gyvczgqynaom7ifivfkxhbsyixu2ky7aiilw"
+        }
+      ]
     }
   ]
 }
