@@ -35,12 +35,12 @@
     "Weekly Allocation": "250TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-05-31 08:38:14.749918656 UTC",
     "Validated By": "NewHuoPool",
     "Active": true,
-    "Updated At": "2024-06-03 15:00:03.679276085 UTC",
-    "Active Request ID": "68d70276-9efd-46ab-a3ae-c9fdbd55baf5",
+    "Updated At": "2024-06-05 01:50:12.650167846 UTC",
+    "Active Request ID": "9abf9760-2267-428b-a845-2763f9c984e4",
     "On Chain Address": "f1kzg6jctjv7ymsidesasfp6lldmxa5nje4z4mxqi",
     "Multisig Address": "false",
     "edited": false
@@ -61,6 +61,15 @@
           "Message CID": "bafy2bzaceaickaq66mvl77pq6gyvczgqynaom7ifivfkxhbsyixu2ky7aiilw"
         }
       ]
+    },
+    {
+      "ID": "9abf9760-2267-428b-a845-2763f9c984e4",
+      "Request Type": "Refill",
+      "Created At": "2024-06-05 01:50:12.650174718 UTC",
+      "Updated At": "2024-06-05 01:50:12.650176083 UTC",
+      "Active": true,
+      "Allocation Amount": "450TiB",
+      "Signers": []
     }
   ]
 }
