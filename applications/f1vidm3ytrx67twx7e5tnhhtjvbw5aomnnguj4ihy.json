@@ -35,15 +35,25 @@
     "Weekly Allocation": "1200TiB"
   },
   "Lifecycle": {
-    "State": "KYCRequested",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-07-03 09:26:48.179942686 UTC",
+    "Validated By": "NewHuoPool",
     "Active": true,
-    "Updated At": "2025-07-03 05:54:23.432273982 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-07-03 09:26:48.179948276 UTC",
+    "Active Request ID": "3220246b-d5c3-4a31-8396-6626afa574c7",
     "On Chain Address": "f1vidm3ytrx67twx7e5tnhhtjvbw5aomnnguj4ihy",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "3220246b-d5c3-4a31-8396-6626afa574c7",
+      "Request Type": "First",
+      "Created At": "2025-07-03 09:26:48.179950569 UTC",
+      "Updated At": "2025-07-03 09:26:48.179952124 UTC",
+      "Active": true,
+      "Allocation Amount": "562949953421312 B",
+      "Signers": []
+    }
+  ]
 }
