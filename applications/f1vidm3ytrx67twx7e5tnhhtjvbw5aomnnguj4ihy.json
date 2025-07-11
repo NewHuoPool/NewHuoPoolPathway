@@ -36,11 +36,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2025-07-03 09:51:11.805149569 UTC",
+    "Validated At": "2025-07-11 05:13:35.673656552 UTC",
     "Validated By": "NewHuoPool",
     "Active": true,
-    "Updated At": "2025-07-03 09:51:11.805145204 UTC",
-    "Active Request ID": "3220246b-d5c3-4a31-8396-6626afa574c7",
+    "Updated At": "2025-07-11 05:13:35.673653191 UTC",
+    "Active Request ID": "598f6d2e-82d8-48ba-88e8-8a7a0407daf5",
     "On Chain Address": "f1vidm3ytrx67twx7e5tnhhtjvbw5aomnnguj4ihy",
     "Multisig Address": "false",
     "edited": false
@@ -59,6 +59,22 @@
           "Signing Address": "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y",
           "Created At": "2025-07-03 09:51:05.328000000 UTC",
           "Message CID": "bafy2bzacebgwz2ujlbil7nlytwbconeg4hyzmp5volygpynby5xl4yoabi6so"
+        }
+      ]
+    },
+    {
+      "ID": "598f6d2e-82d8-48ba-88e8-8a7a0407daf5",
+      "Request Type": "Refill",
+      "Created At": "2025-07-11 05:11:57.312561635 UTC",
+      "Updated At": "2025-07-11 05:11:57.312562642 UTC",
+      "Active": false,
+      "Allocation Amount": "1649267441664000B",
+      "Signers": [
+        {
+          "Github Username": "NewHuoPool",
+          "Signing Address": "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y",
+          "Created At": "2025-07-11 05:13:32.509000000 UTC",
+          "Message CID": "bafy2bzacec2km4rcbd54db4z52gu2ncyws26q6xdovdpptdj67hvuktsibvxc"
         }
       ]
     }
