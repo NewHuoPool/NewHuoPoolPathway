@@ -35,12 +35,12 @@
     "Weekly Allocation": "1200TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
-    "Validated At": "2025-07-03 09:51:11.805149569 UTC",
+    "State": "ReadyToSign",
+    "Validated At": "2025-07-11 05:11:57.312555254 UTC",
     "Validated By": "NewHuoPool",
     "Active": true,
-    "Updated At": "2025-07-03 09:51:11.805145204 UTC",
-    "Active Request ID": "3220246b-d5c3-4a31-8396-6626afa574c7",
+    "Updated At": "2025-07-11 05:11:57.312558121 UTC",
+    "Active Request ID": "598f6d2e-82d8-48ba-88e8-8a7a0407daf5",
     "On Chain Address": "f1vidm3ytrx67twx7e5tnhhtjvbw5aomnnguj4ihy",
     "Multisig Address": "false",
     "edited": false
@@ -61,6 +61,15 @@
           "Message CID": "bafy2bzacebgwz2ujlbil7nlytwbconeg4hyzmp5volygpynby5xl4yoabi6so"
         }
       ]
+    },
+    {
+      "ID": "598f6d2e-82d8-48ba-88e8-8a7a0407daf5",
+      "Request Type": "Refill",
+      "Created At": "2025-07-11 05:11:57.312561635 UTC",
+      "Updated At": "2025-07-11 05:11:57.312562642 UTC",
+      "Active": true,
+      "Allocation Amount": "1649267441664000B",
+      "Signers": []
     }
   ]
 }
